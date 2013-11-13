@@ -1,0 +1,26 @@
+//a[contains(@hrf,'google')and contains(@class='no')]   
+//a[contains(@href,'recover')] 
+//a[contains(@href, '#')]
+//div[text()=" "]
+//span[contains(@href, 'recover')]
+
+
+
+<a class="cta add-website-to-basket bskt" data-product="{&quot;siteName&quot;:&quot;HibuUs&quot;,&quot;productWithAddons&quot;
+:{&quot;SKU&quot;:&quot;WBS-STD-02-US&quot;,&quot;znodeid&quot;:&quot;1072&quot;,&quot;Options&quot;:[],&quot;addons&quot;:[]},
+&quot;key&quot;:&quot;zso4najni3wnc5tlnw10fqc3&quot;}" href="#">Add to cart<span></span><div class="bskt-moving-preldr"></div></a>
+
+
+<HTML>
+	<Head>
+		<Title>
+		</Title>
+	</Head>
+
+
+
+
+1.//div[@class='a']/span[@class='m']
+2. //div[@id='b' and @class ='c' and type ='e']
+3.//a[contains(@hrf,'google')and contains(@class='no')]
+4.//span[text()='Hello']

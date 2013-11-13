@@ -1,0 +1,85 @@
+
+
+www.github.com
+
+	-bittechusa
+	-Repository
+	-Bittechusa corp
+-------------------------------------------------------
+
+github access>>
+rubel01 (pass: rimirubel01)
+---------------------------------------------
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rubel01/asad.git
+git push -u origin master
+----------------------------------------------------
+
+git remote add origin https://github.com/rubel01/asad.git
+git push -u origin master
+
+------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Git (version 1.8.4-preview20130916)
+
+
+Run 'git help git' to display the help index.
+Run 'git help <command>' to display help for specific commands.
+
+azaman@ASADUZAMAN /c/Oracle/gitProject
+$ cd ~/Desktop/
+
+azaman@ASADUZAMAN ~/Desktop
+$ ls
+ClassMatter.txt                        javascript.html
+Git Bash.lnk                           javascript.txt
+HTML-Pocket-Reference-2nd-Edition.pdf  jhumur hishab.xlsx
+Safe Money.lnk                         jmeter - Shortcut.lnk
+conbill.txt                            maven setup procedure.txt
+desktop.ini                            xpath.txt
+eclipse - Shortcut.lnk
+
+azaman@ASADUZAMAN ~/Desktop
+$ git clone git@github.com:bittechusa/BSATSUN.git
+Cloning into 'BSATSUN'...
+The authenticity of host 'github.com (192.30.252.128)' can't be established.
+RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,192.30.252.128' (RSA) to the list of know
+n hosts.
+remote: Counting objects: 99, done.
+remote: Compressing objects: 100% (50/50), done.
+remote: Total 99 (delta 28), reused 84 (delta 13)
+Receiving objects: 100% (99/99), 8.76 KiB | 0 bytes/s, done.
+Resolving deltas: 100% (28/28), done.
+Checking connectivity... done
+
+azaman@ASADUZAMAN ~/Desktop
+$

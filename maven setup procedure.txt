@@ -1,0 +1,30 @@
+Maven Setup in  Win DOS, Apple & Unix Computer
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Download >
+1. Maven version 3.0.3 Binery Jirs -from http://maven.apache.org/downloads
+2. Go to Terminal - a comman prompt
+3. $  export  --Path of the Maven version
+4. $ mvn     --version //Checking the version
+5  $ mkdir myapp //Making a new directory
+6  $ cd myapp // entering into the directory
+7. $ mvn archetype:generate // setup the archetype as per instructions
+		-GroupId // type the GroupID
+		-artifactId // type Artifactid 
+		-Version  // type version
+		-Package  // Package name here
+
+
+to setup a maven dependencies:
+
+	$ cd mavenTestProject
+	$ MavenTestProject
+	$ls //enter to locate target folder
+	$ mvn clear // enter
+	$ mvn compile
+	$ mvn package
+
+To download and setup eclipse in context of Maven>>
+
+	$ mvn eclipse:eclipse
+	
